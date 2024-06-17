@@ -1,0 +1,3 @@
+include README.md
+recursive-include employees/templates *
+recursive-include employees/static *

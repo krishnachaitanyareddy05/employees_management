@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: django-employee-management
+Version: 0.1
+Summary: A reusable Django app for managing employees.
+Home-page: https://github.com/krishnachaitanyareddy05/django-employee-management
+Author: MORTHALA KRISHNA CHAITANYA REDDY
+Author-email: krishnachaitanyareddy05@gmail.com
+License: MIT License
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 5.0.6
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Description-Content-Type: text/markdown
+
+# Django Employee Management
+
+A reusable Django app for managing employees.
+
+## Installation
+
+Install the package using pip: 
+pip install django-employee-management
+
